@@ -1,0 +1,2 @@
+cat 99 > loop/counter
+cd looppath

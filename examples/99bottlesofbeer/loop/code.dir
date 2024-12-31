@@ -1,0 +1,8 @@
+cat counter str1 counter str2
+sub counter 1 > counter
+
+gt counter 1 > path
+cd path
+
+cat counter str3
+cd /looppath

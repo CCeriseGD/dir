@@ -1,0 +1,8 @@
+head /1 /code > char
+len /code > len
+cat lenbasepath len > lenpath
+cd lenpath
+sub len /1 > len
+tail len /code > /code
+cd char
+cd /looppath

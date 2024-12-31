@@ -1,0 +1,3 @@
+cat $0 > code
+cat 0 > val
+cd looppath

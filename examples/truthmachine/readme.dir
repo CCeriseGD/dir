@@ -1,0 +1,2 @@
+truth machine
+(prompts for input; if its 0, prints 0 and halts; if its 1, prints 1 infinitely)

@@ -1,0 +1,2 @@
+cat /0 > /val
+cd /looppath

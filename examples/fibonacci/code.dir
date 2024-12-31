@@ -1,0 +1,4 @@
+cat 1 > loop/n1
+cat 1 > loop/n2
+cat 1 loop/newline
+cd looppath

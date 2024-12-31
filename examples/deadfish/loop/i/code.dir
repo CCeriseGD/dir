@@ -1,0 +1,2 @@
+add /val /1 > /val
+cd ../checkvalpath

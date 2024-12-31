@@ -1,0 +1,5 @@
+cat basepath > path
+cat prompt
+read >> path
+cd path
+cat invalid

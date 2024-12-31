@@ -1,0 +1,2 @@
+calculates fibonacci numbers
+(infinitely many in theory; python freaks out after reaching the floating point limit)
